@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Khutz321/Khutz321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Khutz321/Khutz321** is a ✨ _special_ ✨ repository because it appears on his GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... sleeping
+- 🌱 I’m currently learning ... sleeping
+- 👯 I’m looking to collaborate on ... sleeping
+- 🤔 I’m looking for help with ... sleeping
+- 💬 Ask me about ... sleep
+- 📫 How to reach me: ... sleeping (email: thalesavmarcondes@gmail.com OR thalesavmarcondes@outlook.com)
+- 😄 Pronouns: ... he/him
+- ⚡ Fun fact: ... augh mimimimimi
+  
